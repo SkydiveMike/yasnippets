@@ -1,3 +1,5 @@
+# -*- mode: snippet -*-
+# key: figure
 #name : figure
 # --
 #+attr_latex: width=$1\textwidth
