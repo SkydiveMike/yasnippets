@@ -1,3 +1,5 @@
+# -*- mode: snippet -*-
+# key: inc
 #name : Author
 #contributor : Rick Moynihan <rick@sourcesmouth.co.uk>
 # --
