@@ -1,3 +1,4 @@
+# -*- mode: snippet -*-
 # name: ditaa
 # key: dit
 # condition: (or (= (current-column) 3) (= (current-column) 0))
