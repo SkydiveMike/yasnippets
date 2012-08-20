@@ -8,6 +8,12 @@ They have bindings ~C-c y~ plus an extra letter.
 I have added a ~condition~ statement so that the snippets can be
 expanded only at the beginning of the line.
 
+[2012-08-20 Mon] : Mike McLean.
+
+There are a number of different versions of the Org mode yasnippets on github. This is my
+attempt to merge them so that I can have one single Org mode snippet repository.
+
+
 | name                                | key        | letter | explanation                          |
 |-------------------------------------+------------+--------+--------------------------------------|
 | #+begin_ ...#+end_                  | block      | b      |                                      |
@@ -35,7 +41,3 @@ expanded only at the beginning of the line.
 | theorem                             | thm        | t      | (uses reftex)                        |
 | tikz-picture                        | tkz        | z      | (uses reftex)                        |
 | title                               | title      |        | inserts ~#+title:~                     |
-
-
-
-
