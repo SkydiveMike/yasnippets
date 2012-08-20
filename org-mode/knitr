@@ -1,6 +1,8 @@
-#name : Knitr Source Code Block
-#contributor : Alexander Jerneck <ajerneck@sas.upenn.edu>
-#key: ks
+# -*- mode: snippet -*-
+# name : Knitr Source Code Block
+# contributor : Alexander Jerneck <ajerneck@sas.upenn.edu>
+# key: ks
+# condition: (or (= (current-column) 2) (= (current-column) 0))
 # --
 #+BEGIN_LATEX
 <<$1, echo=${2:$$(yas/choose-value '("FALSE" "TRUE"))}, cache=${3:$$(yas/choose-value '("TRUE" "FALSE"))}>>=

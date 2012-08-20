@@ -1,6 +1,7 @@
-#name : Knitr Table Source Code Block
-#contributor : Alexander Jerneck <ajerneck@sas.upenn.edu>
-#key: kt
+# -*- mode: snippet -*-
+# name : Knitr Table Source Code Block
+# contributor : Alexander Jerneck <ajerneck@sas.upenn.edu>
+# key: kt
 # --
 #+BEGIN_LATEX
 <<tbl_$1, echo=${2:$$(yas/choose-value '("FALSE" "TRUE"))}, cache=${3:$$(yas/choose-value '("TRUE" "FALSE"))}, results=tex>>=
