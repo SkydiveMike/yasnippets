@@ -1,0 +1,9 @@
+#name : Knitr Source Code Block
+#contributor : Alexander Jerneck <ajerneck@sas.upenn.edu>
+#key: ks
+# --
+#+BEGIN_LATEX
+<<$1, echo=${2:$$(yas/choose-value '("FALSE" "TRUE"))}, cache=${3:$$(yas/choose-value '("TRUE" "FALSE"))}>>=
+$0
+@
+#+END_LATEX
