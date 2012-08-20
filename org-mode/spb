@@ -1,0 +1,6 @@
+#name : #+begin_foo...#+end_foo
+# expand-env: ((yas/indent-line 'fixed) (yas/wrap-around-region 'nil))
+# --
+#+begin_${1:special_block}
+  $2
+#+end_$1
