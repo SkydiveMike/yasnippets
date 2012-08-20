@@ -28,6 +28,9 @@ attempt to merge them so that I can have one single Org mode snippet repository.
 | email                               | email      |        | inserts ~#+email:~                     |
 | equation                            | eqn        | e      | (uses reftex)                          |
 | figure                              | fig        | f      | asks for image file                    |
+| knitr                               | ks         |        | inserts Knitr Source Code Block        |
+| knitr_fig                           | kf         |        | inserts Knitr Figure Source Code Block |
+| knitr_table                         | kt         |        | inserts Knitr Table Source Code Block  |
 | language                            | lan        |        | inserts ~#+language:~ (with choice)    |
 | LaTeX class                         | lcl        |        | inserts ~#+latex_class:~ (with choice) |
 | LaTeX header                        | lhe        |        | inserts ~#+latex_header:~              |
