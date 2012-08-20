@@ -36,7 +36,9 @@ attempt to merge them so that I can have one single Org mode snippet repository.
 | proof                               | prf        |        |                                      |
 | properties folded                   | properties |        | inserts visibility folded property   |
 | proposition                         | pro        | p      | (uses reftex)                        |
+| res                                 | res        |        | inserts ~#+RESNAME:~                 |
 | startup                             | sta        |        | inserts ~#+startup:~                   |
+| tags                                | tag        |        | inserts ~#+tags:~                    |
 | text                                | text       |        | inserts ~#+text:~                      |
 | theorem                             | thm        | t      | (uses reftex)                        |
 | tikz-picture                        | tkz        | z      | (uses reftex)                        |
