@@ -14,32 +14,32 @@ There are a number of different versions of the Org mode yasnippets on github. T
 attempt to merge them so that I can have one single Org mode snippet repository.
 
 
-| name                                | key        | letter | explanation                          |
-|-------------------------------------+------------+--------+--------------------------------------|
-| #+begin_ ...#+end_                  | block      | b      |                                      |
-| #+srcname:..#+begin_src...#+end_src | sb         | s      | source block with name               |
-| attr_html                           | ath        |        | alt="$1" img class="aligncenter"     |
-| attr_latex                          | atl        |        | ${1:width=$2\textwidth}              |
+| name                                | key        | letter | explanation                            |
+|-------------------------------------+------------+--------+----------------------------------------|
+| #+begin_ ...#+end_                  | block      | b      |                                        |
+| #+srcname:..#+begin_src...#+end_src | sb         | s      | source block with name                 |
+| attr_html                           | ath        |        | alt="$1" img class="aligncenter"       |
+| attr_latex                          | atl        |        | ${1:width=$2\textwidth}                |
 | author                              | aut        | a      | inserts ~#+author:~                    |
-| corollary                           | cor        | c      | (uses reftex)                        |
-| definition                          | def        | d      | (uses reftex)                        |
-| ditaa                               | dit        |        | #+begin_ditaa,+end_ditaa             |
-| el                                  | el         |        | #+begin_src emacs-lisp,+end_src      |
+| corollary                           | cor        | c      | (uses reftex)                          |
+| definition                          | def        | d      | (uses reftex)                          |
+| ditaa                               | dit        |        | #+begin_ditaa,+end_ditaa               |
+| el                                  | el         |        | #+begin_src emacs-lisp,+end_src        |
 | email                               | email      |        | inserts ~#+email:~                     |
-| equation                            | eqn        | e      | (uses reftex)                        |
-| figure                              | fig        | f      | asks for image file                  |
+| equation                            | eqn        | e      | (uses reftex)                          |
+| figure                              | fig        | f      | asks for image file                    |
 | language                            | lan        |        | inserts ~#+language:~ (with choice)    |
 | LaTeX class                         | lcl        |        | inserts ~#+latex_class:~ (with choice) |
 | LaTeX header                        | lhe        |        | inserts ~#+latex_header:~              |
-| lemma                               | lem        | l      | (uses reftex)                        |
+| lemma                               | lem        | l      | (uses reftex)                          |
 | options                             | opt        | o      | inserts ~#+options:~                   |
-| proof                               | prf        |        |                                      |
-| properties folded                   | properties |        | inserts visibility folded property   |
-| proposition                         | pro        | p      | (uses reftex)                        |
-| res                                 | res        |        | inserts ~#+RESNAME:~                 |
+| proof                               | prf        |        |                                        |
+| properties folded                   | properties |        | inserts visibility folded property     |
+| proposition                         | pro        | p      | (uses reftex)                          |
+| res                                 | res        |        | inserts ~#+RESNAME:~                   |
 | startup                             | sta        |        | inserts ~#+startup:~                   |
-| tags                                | tag        |        | inserts ~#+tags:~                    |
+| tags                                | tag        |        | inserts ~#+tags:~                      |
 | text                                | text       |        | inserts ~#+text:~                      |
-| theorem                             | thm        | t      | (uses reftex)                        |
-| tikz-picture                        | tkz        | z      | (uses reftex)                        |
+| theorem                             | thm        | t      | (uses reftex)                          |
+| tikz-picture                        | tkz        | z      | (uses reftex)                          |
 | title                               | title      |        | inserts ~#+title:~                     |
