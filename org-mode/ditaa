@@ -5,6 +5,6 @@
 # contributor: Rick Moynihan <rick@sourcesmouth.co.uk>
 # contributor: Rafael Villarroel (rvf0068@gmail.com)
 # --
-#+begin_ditaa ${1:export-file-name} -r -s -e
+#+begin_ditaa ${1:export-file-name} -r -S -E
 ${0}
 #+end_ditaa

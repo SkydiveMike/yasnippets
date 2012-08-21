@@ -23,31 +23,37 @@ attempt to merge them so that I can have one single Org mode snippet repository.
 | attr_latex                          | atl        |        | ${1:width=$2\textwidth}                |
 | author                              | aut        | a      | inserts ~#+author:~                    |
 | corollary                           | cor        | c      | (uses reftex)                          |
-| desc                                | desc       |        | inserts ~#+description:~               |
 | definition                          | def        | d      | (uses reftex)                          |
+| desc                                | desc       |        | inserts ~#+description:~               |
 | ditaa                               | dit        |        | #+begin_ditaa,+end_ditaa               |
+| docbook                             | docbook    |        | inserts docbook block                  |
 | el                                  | el         |        | #+begin_src emacs-lisp,+end_src        |
 | email                               | email      |        | inserts ~#+email:~                     |
 | equation                            | eqn        | e      | (uses reftex)                          |
 | figure                              | fig        | f      | asks for image file                    |
+| html                                | html       |        | inserts html block                     |
+| inc                                 | inc        |        | inserts ~#+include:~                   |
+| keywords                            | keywords   |        | inserts ~#+keywords:~                  |
 | knitr                               | ks         |        | inserts Knitr Source Code Block        |
 | knitr_fig                           | kf         |        | inserts Knitr Figure Source Code Block |
 | knitr_table                         | kt         |        | inserts Knitr Table Source Code Block  |
 | language                            | lan        |        | inserts ~#+language:~ (with choice)    |
+| latex                               | latex      |        | inserts LaTeX block                    |
 | LaTeX class                         | lcl        |        | inserts ~#+latex_class:~ (with choice) |
 | LaTeX header                        | lhe        |        | inserts ~#+latex_header:~              |
 | lemma                               | lem        | l      | (uses reftex)                          |
 | options                             | opt        | o      | inserts ~#+options:~                   |
-| proof                               | prf        |        |                                        |
+| proof                               | prf        |        | #+begin_proof … #+end_proof            |
 | properties folded                   | properties |        | inserts visibility folded property     |
 | proposition                         | pro        | p      | (uses reftex)                          |
 | res                                 | res        |        | inserts ~#+RESNAME:~                   |
+| seq                                 | seq        |        | inserts ~#+SEQ_TODO:~                  |
 | startup                             | sta        |        | inserts ~#+startup:~                   |
 | tags                                | tag        |        | inserts ~#+tags:~                      |
 | text                                | text       |        | inserts ~#+text:~                      |
 | theorem                             | thm        | t      | (uses reftex)                          |
-| tikz-picture                        | tkz        | z      | (uses reftex)                          |
 | title                               | title      |        | inserts ~#+title:~                     |
+
 * Footnotes
 
 [fn:1] See [[http://orgmode.org/worg/org-contrib/org-special-blocks.html]]. This is a merge of
