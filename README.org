@@ -23,6 +23,7 @@ attempt to merge them so that I can have one single Org mode snippet repository.
 | attr_latex                          | atl        |        | ${1:width=$2\textwidth}                |
 | author                              | aut        | a      | inserts ~#+author:~                    |
 | corollary                           | cor        | c      | (uses reftex)                          |
+| desc                                | desc       |        | inserts ~#+description:~               |
 | definition                          | def        | d      | (uses reftex)                          |
 | ditaa                               | dit        |        | #+begin_ditaa,+end_ditaa               |
 | el                                  | el         |        | #+begin_src emacs-lisp,+end_src        |
