@@ -30,7 +30,9 @@ attempt to merge them so that I can have one single Org mode snippet repository.
 | el                                  | el          |        | #+begin_src emacs-lisp,+end_src        |
 | email                               | email       |        | inserts ~#+email:~                     |
 | equation                            | eqn         | e      | (uses reftex)                          |
+| example                             | example     |        | #+begin_example … #+end_example        |
 | figure                              | fig         | f      | asks for image file                    |
+| fprop                               | fprop       |        | File property ~#+property:~            |
 | html                                | html        |        | inserts html block                     |
 | inc                                 | inc         |        | inserts ~#+include:~                   |
 | keywords                            | keywords    |        | inserts ~#+keywords:~                  |
@@ -48,6 +50,23 @@ attempt to merge them so that I can have one single Org mode snippet repository.
 | proposition                         | pro         | p      | (uses reftex)                          |
 | res                                 | res         |        | inserts ~#+RESNAME:~                   |
 | seq                                 | seq         |        | inserts ~#+SEQ_TODO:~                  |
+| srcbat                              | srcbat      |        | #+begin_src ntcmd … #+end_src          |
+| srcc                                | srcc        |        | #+begin_src c … #+end_src              |
+| srccpp                              | srccpp      |        | #+begin_src c++ … #+end_src            |
+| srccs                               | srccs       |        | #+begin_src csharp … #+end_src         |
+| srccss                              | srccss      |        | #+begin_src css … #+end_src            |
+| srcel                               | srcel       |        | #+begin_src emacs-lisp … #+end_src     |
+| srcesn                              | srcesn      |        | #+begin_src esn … #+end_src            |
+| srchtml                             | srchtml     |        | #+begin_src html … #+end_src           |
+| srcini                              | srcini      |        | #+begin_src conf … #+end_src           |
+| srclatex                            | srclatex    |        | #+begin_src latex … #+end_src          |
+| srcnsi                              | srcnsi      |        | #+begin_src nsis … #+end_src           |
+| srcpl                               | srcpl       |        | #+begin_src perl … #+end_src           |
+| srcpy                               | srcpy       |        | #+begin_src py … #+end_src             |
+| srcr                                | srcr        |        | #+begin_src R … #+end_src              |
+| srcrb                               | srcrb       |        | #+begin_src ruby … #+end_src           |
+| srcsh                               | srcsh       |        | #+begin_src sh … #+end_src             |
+| srcvbs                              | srcvbs      |        | #+begin_src visual-basic … #+end_src |
 | startup                             | sta         |        | inserts ~#+startup:~                   |
 | tags                                | tag         |        | inserts ~#+tags:~                      |
 | text                                | text        |        | inserts ~#+text:~                      |
