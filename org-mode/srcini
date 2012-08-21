@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Configuration Mode Source
+# key: srcini
+# --
+#+BEGIN_SRC conf
+$0
+#+END_SRC

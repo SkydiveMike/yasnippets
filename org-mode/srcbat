@@ -1,0 +1,8 @@
+# -*- mode: snippet -*-
+# name: Batch File Source
+# condition: (fboundp 'ntcmd-mode)
+# key: srcbat
+# --
+#+BEGIN_SRC ntcmd
+$0
+#+END_SRC

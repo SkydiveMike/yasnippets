@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Emacs Speaks NONMEM source
+# key: srcesn
+# --
+#+BEGIN_SRC esn
+$0
+#+END_SRC

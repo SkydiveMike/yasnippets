@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: Visual Basic Source
+# key: srcvbs
+# --
+#+BEGIN_SRC visual-basic
+$0
+#+END_SRC

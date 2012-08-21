@@ -1,0 +1,7 @@
+# -*- mode: snippet -*-
+# name: NSIS Source
+# key: srcnsis
+# --
+#+BEGIN_SRC nsis
+$0
+#+END_SRC

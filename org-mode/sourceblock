@@ -5,7 +5,7 @@
 # condition: (or (= (current-column) 2) (= (current-column) 0))
 # expand-env: ((yas/indent-line 'fixed) (yas/wrap-around-region 'nil))
 # --
-#+source: ${1:name}
+#+name: ${1:name}
 #+begin_src ${2:language} $3
   $0
 #+end_src
