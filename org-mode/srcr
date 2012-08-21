@@ -3,6 +3,6 @@
 #name : R Source Code Block
 #contributor : Martyn Jago <martyn.jago@btinternet.com>
 # --
-#+BEGIN_SRC R
+#+begin_src R
 $0$>
-#+END_SRC$>
+#+end_src$>

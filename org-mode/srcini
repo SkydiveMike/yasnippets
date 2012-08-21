@@ -2,6 +2,6 @@
 # name: Configuration Mode Source
 # key: srcini
 # --
-#+BEGIN_SRC conf
+#+begin_src conf
 $0
-#+END_SRC
+#+end_src

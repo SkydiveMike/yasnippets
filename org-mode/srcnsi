@@ -2,6 +2,6 @@
 # name: NSIS source
 # key: srcnsi
 # --
-#+BEGIN_SRC nsis
+#+begin_src nsis
 $0$>
-#+END_SRC$>
+#+end_src$>

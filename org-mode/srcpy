@@ -3,6 +3,6 @@
 #name : Python Source Code Block
 #contributor : Martyn Jago <martyn.jago@btinternet.com>
 # --
-#+BEGIN_SRC python
+#+begin_src python
 $0$>
-#+END_SRC$>
+#+end_src$>

@@ -2,5 +2,5 @@
 # name: File Based Property
 # key: fprop
 # --
-#+PROPERTY: $1
+#+property: $1
 $0

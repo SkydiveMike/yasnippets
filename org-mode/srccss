@@ -3,6 +3,6 @@
 #name : CSS Source Code Block
 #contributor : Eric Arneback <erkastina@hotmail.com>
 # --
-#+BEGIN_SRC css
+#+begin_src css
 $0$>
-#+END_SRC$>
+#+end_src$>

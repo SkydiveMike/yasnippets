@@ -3,6 +3,6 @@
 #name : LaTeX Source Code Block
 #contributor : Eric Arneback <erkastina@hotmail.com>
 # --
-#+BEGIN_SRC latex
+#+begin_src latex
 $0$>
-#+END_SRC$>
+#+end_src$>

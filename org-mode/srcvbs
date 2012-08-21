@@ -2,6 +2,6 @@
 # name: Visual Basic Source
 # key: srcvbs
 # --
-#+BEGIN_SRC visual-basic
+#+begin_src visual-basic
 $0
-#+END_SRC
+#+end_src
