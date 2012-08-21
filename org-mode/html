@@ -3,6 +3,6 @@
 #name : HTML
 #contributor : Rick Moynihan <rick@sourcesmouth.co.uk>
 # --
-#+BEGIN_HTML
+#+begin_html
 ${0}
-#+END_HTML
+#+end_html

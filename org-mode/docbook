@@ -3,6 +3,6 @@
 #name : DOCBOOK
 #contributor : Rick Moynihan <rick@sourcesmouth.co.uk>
 # --
-#+BEGIN_DOCBOOK
+#+begin_docbook
 ${0}
-#+END_DOCBOOK
+#+end_docbook
