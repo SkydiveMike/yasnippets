@@ -3,6 +3,6 @@
 #name : Example block
 #contributor : Eric Arneback <erkastina@hotmail.com>
 # --
-#+BEGIN_EXAMPLE
+#+begin_example
 ${0}
-#+END_EXAMPLE
+#+end_example

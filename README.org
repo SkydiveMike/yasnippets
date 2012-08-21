@@ -30,6 +30,7 @@ attempt to merge them so that I can have one single Org mode snippet repository.
 | el                                  | el          |        | #+begin_src emacs-lisp,+end_src        |
 | email                               | email       |        | inserts ~#+email:~                     |
 | equation                            | eqn         | e      | (uses reftex)                          |
+| example                             | example     |        | #+begin_example … #+end_example        |
 | figure                              | fig         | f      | asks for image file                    |
 | html                                | html        |        | inserts html block                     |
 | inc                                 | inc         |        | inserts ~#+include:~                   |
